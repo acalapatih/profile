@@ -324,15 +324,19 @@ img {
   z-index: var(--z-back);
 }
 
+.skills__jetpack {
+  width: 80%;
+}
+
 .skills__htmlcss {
-  width: 95%;
+  width: 90%;
 }
 
 .skills__js {
   width: 85%;
 }
 
-.skills__php {
+.skills__python {
   width: 70%;
 }
 
@@ -341,7 +345,7 @@ img {
 }
 
 .skills__kotlin {
-  width: 50%;
+  width: 90%;
 }
 
 .skills__img {
